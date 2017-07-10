@@ -21,7 +21,7 @@ class PlanetPopUp extends Component {
                                     <td>Name</td>
                                     <td>Diameter</td>
                                     <td>Climate</td>
-                                    <td>Papolation</td>
+                                    <td>Population</td>
                                 </tr>
                                 </thead>
                                 <tbody className="table-body">
