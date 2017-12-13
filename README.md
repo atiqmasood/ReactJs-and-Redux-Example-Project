@@ -1,4 +1,4 @@
-## mi-c3 Test Assignment (React, Redux)
+## ReactJs And Redux Demo (React, Redux, ES6, NMP, Create-React-app)
 
 This project is an attempt to accomplish what is described in the given document. Though it is a small demo projecct, I've implemented it in a way so that it can be evolved as a basis for a bigger project.
 
